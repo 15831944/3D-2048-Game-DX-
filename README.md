@@ -1,7 +1,7 @@
 # 3D-2048-Game-DX-
 Use DX to achieve the 3D version of the 2048 game<br>
 1.Effect map:<br>
-![3D 2048](/path/to/img.jpg)
+![3D 2048](https://github.com/milklili/3D-2048-Game-DX-/blob/master/3DCube2048/2048.JPG)<br>
 2. game operation<br>
 
 * Click`↑`,`↓`,`←`,`→`to control the direction of the lens.
